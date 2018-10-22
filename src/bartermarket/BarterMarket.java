@@ -25,7 +25,7 @@ public class BarterMarket {
      
           ConnectionListener listener= new ConnectionListener();
           listener.listen();
-             
+          listener.listen();
              
 }
         
